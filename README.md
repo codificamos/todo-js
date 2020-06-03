@@ -1,6 +1,6 @@
-# Webpack Starter 
+# Todo
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Aplicación para crear todos, elaborada en js.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
