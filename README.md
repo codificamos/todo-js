@@ -1,6 +1,6 @@
 # Todo
 
-Aplicación para crear todos, elaborada en js.
+Aplicación para crear todos, hecha en js.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
